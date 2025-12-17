@@ -32,7 +32,7 @@ The goal of this project is to help users estimate property prices more accurate
   * Pandas
   * Matplotlib / Seaborn (for visualization)
   * Scikit-learn
-  * Flask / Streamlit (optional for deployment)
+  * Flask / Streamlit 
 * **IDE:** VS Code / Jupyter Notebook
 
 ---
